@@ -10,7 +10,7 @@ public class OracleConnectUtil {
 	public static Connection connect() {
 		
 		String url="jdbc:oracle:thin:@//localhost:1521/xe";
-		String user="test";
+		String user="practice";
 		String password="1234";
 		String driver="oracle.jdbc.driver.OracleDriver";
 		Connection conn=null;

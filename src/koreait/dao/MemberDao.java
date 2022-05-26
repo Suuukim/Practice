@@ -23,7 +23,7 @@ public class MemberDao {
 		Connection conn=OracleConnectUtil.connect();
 		ResultSet rs = null;
 		PreparedStatement pstmt = null;
-		String sql="select member_seq.nextval from dual";
+		String sql="select member_tbl_seq.nextval from dual";
 		int result = 0;
 		
 		try {

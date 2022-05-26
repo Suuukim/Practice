@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>쇼핑몰 회원관리_정보처리산업기사실기</title>
+<link rel="stylesheet" href="0_hrdkorea.css">
 </head>
 <body>
 	<div class="wrap_container">

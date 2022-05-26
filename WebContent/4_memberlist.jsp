@@ -7,6 +7,7 @@
 <head>
 <meta charset="UTF-8">
 <title>회원 목록 조회/수정</title>
+<link rel="stylesheet" href="0_hrdkorea.css">
 </head>
 <body>
 <div class="wrap_container">

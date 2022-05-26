@@ -9,6 +9,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=deivce-width, inital-scale=1.0">
 	<title>회원 정보 수정 화면</title>
+	<link rel="stylesheet" href="0_hrdkorea.css">
 </head>
 <style>
 	td,th{
