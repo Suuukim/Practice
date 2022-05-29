@@ -8,10 +8,10 @@ public class OracleConnectUtil2 {
 	
 	//오라클 연결 메소드
 	public static Connection connect(){
-		String url = "jdbc:Oracle:thin:@//localhost:1521/xe";
-		String user = "practice";
-		String password = "1234";
-		String driver = "oracle.jdbc.driver.OracleDriver";
+		String url = "jdbc:Oracle:thin:@//localhost:1521/xe";		//오라클 url
+		String user = "practice";									//오라클 계정
+		String password = "1234";									//오라클 계정 비밀번호
+		String driver = "oracle.jdbc.driver.OracleDriver";			//오라클 연결 driver
 		Connection conn = null;
 		
 		try {
